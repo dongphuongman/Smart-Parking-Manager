@@ -1,0 +1,7 @@
+{
+  "name": "Smart Parking Manager",
+  "description": "Hệ thống quản lý bãi đỗ xe thông minh sử dụng Gemini để nhận diện biển số xe tự động.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
